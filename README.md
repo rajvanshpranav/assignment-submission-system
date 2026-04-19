@@ -36,3 +36,24 @@ python streaming/producer.py
 streamlit run dashboard.py
 
 ## 📊 Project Structure
+OASIS/
+│── app/
+│ └── dashboard.py
+│
+│── streaming/
+│ ├── producer.py
+│ └── consumer.py
+│
+│── etl/
+│── utils/
+│
+│── Project.sql
+│── requirements.txt
+│── README.md
+⭐ If you like this project
+
+Give it a ⭐ on GitHub!
+
+👨‍💻 Author
+Pranav Rajvansh
+GitHub: https://github.com/rajvanshpranav
